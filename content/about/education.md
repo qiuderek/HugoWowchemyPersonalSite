@@ -24,8 +24,6 @@ date_format: Jan 2006
 experience:
   - title: MSc Statistics
     company: Simon Fraser University
-    company_url: ''
-    company_logo: org-x
     location: Burnaby, BC
     date_start: '2015-09-01'
     date_end: '2017-04-01'

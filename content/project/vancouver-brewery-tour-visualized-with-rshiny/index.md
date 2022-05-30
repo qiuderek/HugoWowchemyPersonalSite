@@ -1,7 +1,7 @@
 ---
 title: Vancouver Brewery Tour (Visualized with RShiny)
 date: 2022-05-30T05:35:58.297Z
-summary: asdsadsad
+summary: ""
 draft: false
 featured: false
 tags:

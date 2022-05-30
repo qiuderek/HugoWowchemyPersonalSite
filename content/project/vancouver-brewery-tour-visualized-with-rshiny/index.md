@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - CV
+external_link: http://github.com
 links: []
 image:
   filename: featured.jpg

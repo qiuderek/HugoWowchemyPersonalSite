@@ -6,8 +6,7 @@ draft: false
 featured: false
 tags:
   - CV
-links:
-  - url: http://github.com
+links: []
 image:
   filename: beers.jpg
   focal_point: Smart

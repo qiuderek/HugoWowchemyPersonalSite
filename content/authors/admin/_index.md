@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
 status:
-  icon: mccafe.png
+  icon: ![image](https://user-images.githubusercontent.com/106496450/170922628-49389ff2-fa61-460f-985c-f7b27469b5e9.png)
 social:
   - icon: envelope
     icon_pack: fas

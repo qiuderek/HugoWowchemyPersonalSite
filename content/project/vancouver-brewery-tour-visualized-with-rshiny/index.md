@@ -4,6 +4,10 @@ date: 2022-05-30T05:35:58.297Z
 summary: asdsadsad
 draft: false
 featured: false
+tags:
+  - CV
+links:
+  - url: http://github.com
 image:
   filename: beers.jpg
   focal_point: Smart

@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
 status:
-  icon: mccafe.jpg
+  icon: mccafe.png
 social:
   - icon: envelope
     icon_pack: fas
